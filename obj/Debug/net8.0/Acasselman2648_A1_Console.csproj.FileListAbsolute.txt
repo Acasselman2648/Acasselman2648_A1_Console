@@ -1,0 +1,14 @@
+C:\Users\Coolio\Desktop\Distributed Apps\Acasselman2648_A1_Console\bin\Debug\net8.0\Acasselman2648_A1_Console.exe
+C:\Users\Coolio\Desktop\Distributed Apps\Acasselman2648_A1_Console\bin\Debug\net8.0\Acasselman2648_A1_Console.deps.json
+C:\Users\Coolio\Desktop\Distributed Apps\Acasselman2648_A1_Console\bin\Debug\net8.0\Acasselman2648_A1_Console.runtimeconfig.json
+C:\Users\Coolio\Desktop\Distributed Apps\Acasselman2648_A1_Console\bin\Debug\net8.0\Acasselman2648_A1_Console.dll
+C:\Users\Coolio\Desktop\Distributed Apps\Acasselman2648_A1_Console\bin\Debug\net8.0\Acasselman2648_A1_Console.pdb
+C:\Users\Coolio\Desktop\Distributed Apps\Acasselman2648_A1_Console\obj\Debug\net8.0\Acasselman2648_A1_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coolio\Desktop\Distributed Apps\Acasselman2648_A1_Console\obj\Debug\net8.0\Acasselman2648_A1_Console.AssemblyInfoInputs.cache
+C:\Users\Coolio\Desktop\Distributed Apps\Acasselman2648_A1_Console\obj\Debug\net8.0\Acasselman2648_A1_Console.AssemblyInfo.cs
+C:\Users\Coolio\Desktop\Distributed Apps\Acasselman2648_A1_Console\obj\Debug\net8.0\Acasselman2648_A1_Console.csproj.CoreCompileInputs.cache
+C:\Users\Coolio\Desktop\Distributed Apps\Acasselman2648_A1_Console\obj\Debug\net8.0\Acasselman2648_A1_Console.dll
+C:\Users\Coolio\Desktop\Distributed Apps\Acasselman2648_A1_Console\obj\Debug\net8.0\refint\Acasselman2648_A1_Console.dll
+C:\Users\Coolio\Desktop\Distributed Apps\Acasselman2648_A1_Console\obj\Debug\net8.0\Acasselman2648_A1_Console.pdb
+C:\Users\Coolio\Desktop\Distributed Apps\Acasselman2648_A1_Console\obj\Debug\net8.0\Acasselman2648_A1_Console.genruntimeconfig.cache
+C:\Users\Coolio\Desktop\Distributed Apps\Acasselman2648_A1_Console\obj\Debug\net8.0\ref\Acasselman2648_A1_Console.dll
