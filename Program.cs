@@ -140,5 +140,5 @@ namespace Acasselman_A2_Console
         public string? GreetingMessage { get; set; }
     }
 
-    
+
 }
